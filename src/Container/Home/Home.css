@@ -1,0 +1,17 @@
+.colorbtn{
+    width: 1350;
+    height: 10000px;
+    
+    justify-content: center;
+
+}
+.butt1{
+    margin-left: 700px;
+    margin-top: 300px;
+}
+.butt2{
+    margin-left: 700px;
+}
+.colorbtn h1{
+    margin-left: 300px;
+}
