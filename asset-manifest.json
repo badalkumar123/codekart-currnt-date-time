@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/codekart-currnt-date-time/static/css/main.956aef0c.css",
-    "main.js": "/codekart-currnt-date-time/static/js/main.5414d16d.js",
+    "main.js": "/codekart-currnt-date-time/static/js/main.698ca5ef.js",
     "static/js/787.3624c960.chunk.js": "/codekart-currnt-date-time/static/js/787.3624c960.chunk.js",
     "index.html": "/codekart-currnt-date-time/index.html",
     "main.956aef0c.css.map": "/codekart-currnt-date-time/static/css/main.956aef0c.css.map",
-    "main.5414d16d.js.map": "/codekart-currnt-date-time/static/js/main.5414d16d.js.map",
+    "main.698ca5ef.js.map": "/codekart-currnt-date-time/static/js/main.698ca5ef.js.map",
     "787.3624c960.chunk.js.map": "/codekart-currnt-date-time/static/js/787.3624c960.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.956aef0c.css",
-    "static/js/main.5414d16d.js"
+    "static/js/main.698ca5ef.js"
   ]
 }
